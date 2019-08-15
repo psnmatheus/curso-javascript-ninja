@@ -22,10 +22,10 @@ soma*=3;
 var souninja = true;
 
 // Declare uma variável chamada `comida` que recebe um array com os valores 'arroz', 'feijão' e 'ovo'.
-var comida = ['arroz, feijao, ovo'];
+var comida = ['arroz', 'feijao', 'ovo'];
 
 // Digite a instrução que imprime o valor de 'feijao', que está na variável `comida`.
-comida['feijao'] ou comida.feijao;
+comida[1];
 
 // Digite o código que verifica se a variável `soma' é igual a variável `myvar` (testando também o tipo).
 soma === myvar;
